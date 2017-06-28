@@ -50,3 +50,6 @@ fabric.properties
 !/src/systemjs.config.extras.js
 !/src/systemjs-angular-loader.js
 !/src/systemjs.config.js
+/.idea/
+/hero-tour.iml
+/.editorconfig
